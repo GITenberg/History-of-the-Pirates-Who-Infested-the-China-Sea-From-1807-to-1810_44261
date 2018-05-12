@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '42566'
     url: http://www.gutenberg.org/2009/agents/42566
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44261#History-of-the-Pirates-Who-Infested-the-China-Sea-From-1807-to-1810
 gutenberg_issued: '2013-11-23'
 gutenberg_type: Text
 identifiers:
