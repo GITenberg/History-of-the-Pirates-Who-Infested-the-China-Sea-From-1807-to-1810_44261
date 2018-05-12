@@ -1,0 +1,36 @@
+_repo: History-of-the-Pirates-Who-Infested-the-China-Sea-From-1807-to-1810_44261
+_version: 0.1.0
+alternative_title: Jing hai fen ji. English
+contributor:
+  translator:
+    agent_name: Neumann, Karl Friedrich
+    alias: Neumann, Carl Friedrich
+    deathdate: 1870
+    gutenberg_agent_id: '42660'
+    url: http://www.gutenberg.org/2009/agents/42660
+covers:
+- cover_type: archival
+  image_path: 44261-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Yüan, Yung-lun
+    aliases:
+    - Yuan, Yonglun
+    - 袁永綸
+    - Yuan, Yung-lun
+    gutenberg_agent_id: '42566'
+    url: http://www.gutenberg.org/2009/agents/42566
+description: ''
+gutenberg_issued: '2013-11-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44261'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Pirates -- China Sea'
+title: History of the Pirates Who Infested the China Sea From 1807 to 1810
+url: http://www.gutenberg.org/ebooks/44261
